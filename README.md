@@ -10,8 +10,7 @@
 Olá, sou apenas um pequeno desenvolvedor, um apaixonado por tecnnoligia, navego em aguas profundas da TI, como Computação em Nuvem, Inteligencia Artificial, IoT e assim vai...   
 Hello, I'm just a small developer, passionate about technology, I navigate deep waters of IT, like Cloud Computing, Artificial Intelligence, IoT and so on ...
 
-![Alt Text](https://www.capgemini.com/dk-en/wp-content/uploads/sites/42/2019/09/DEVOPS.gif)
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+<img src="https://www.capgemini.com/dk-en/wp-content/uploads/sites/42/2019/09/DEVOPS.gif" width="100" height="100" />
 
 
 
