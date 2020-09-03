@@ -11,4 +11,7 @@ Olá, sou apenas um pequeno desenvolvedor, um apaixonado por tecnnoligia, navego
 Hello, I'm just a small developer, passionate about technology, I navigate deep waters of IT, like Cloud Computing, Artificial Intelligence, IoT and so on ...
 
 ![Alt Text](https://www.capgemini.com/dk-en/wp-content/uploads/sites/42/2019/09/DEVOPS.gif)
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+
+
 
