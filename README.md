@@ -6,7 +6,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/engcompaulotic/)
 
 <p>
-  	<img  src="https://github.com/Engcompaulo/engcompaulo_imagens_pub/blob/master/DEVOPS.gif" width="250" height="150" alt="DevOps"/>
+  	<img  src="https://github.com/Engcompaulo/engcompaulo_imagens_pub/blob/master/DEVOPS.gif" width="250" height="150" alt="DevOps" align="left">
    ## Hello there! ✌🏻
    <p>Olá, sou apenas um pequeno desenvolvedor, um apaixonado por tecnnoligia, navego em aguas profundas da TI,</p>
    <p>como Computação em Nuvem, Inteligencia Artificial, IoT e assim vai...  </p>
