@@ -13,4 +13,9 @@ Hello, I'm just a small developer, passionate about technology, I navigate deep 
 <img src="https://github.com/Engcompaulo/engcompaulo_imagens_pub/blob/master/DEVOPS.gif" width="500" height="300" />
 
 
+[![Github stats](https://github-readme-stats.vercel.app/api?username=Engcompaulo&count_private=true&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Engcompaulo&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
