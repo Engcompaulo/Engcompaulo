@@ -12,8 +12,10 @@
    <p>Hello, I'm just a small developer, passionate about technology, I navigate deep waters of IT, like Cloud Computing, Artificial Intelligence, IoT and so on ...</p?
 </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Engcompaulo&count_private=true&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Engcompaulo&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Engcompaulo&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Engcompaulo&layout=compact&theme=radical" />
+</a>
