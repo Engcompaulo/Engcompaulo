@@ -13,9 +13,12 @@
 </p>
 
 <div class="container">
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Engcompaulo&count_private=true&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+   <div class="column">
+    [![Github stats](https://github-readme-stats.vercel.app/api?username=Engcompaulo&count_private=true&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+    </div>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Engcompaulo&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+   <div class="column">
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Engcompaulo&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+   </div>
 </div>
 
