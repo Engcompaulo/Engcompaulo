@@ -11,7 +11,8 @@
    <p>Olá, sou apenas um pequeno desenvolvedor, um apaixonado por tecnnoligia, navego em aguas profundas da TI, como Computação em Nuvem, Inteligencia Artificial, IoT e assim vai...  </p>
    <p>Hello, I'm just a small developer, passionate about technology, I navigate deep waters of IT, like Cloud Computing, Artificial Intelligence, IoT and so on ...</p?
 </p>
-
+<br>
+<br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Engcompaulo&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
 </a>
