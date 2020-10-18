@@ -10,8 +10,7 @@
   	<img  src="https://github.com/Engcompaulo/engcompaulo_imagens_pub/blob/master/DEVOPS.gif" width="250" height="150" alt="DevOps"/>
   	<figcaption>DevOps"</figcaption>
   </figure>
-  ## Hello there! ✌🏻
-
+   ## Hello there! ✌🏻
    <p>Olá, sou apenas um pequeno desenvolvedor, um apaixonado por tecnnoligia, navego em aguas profundas da TI,</p>
    <p>como Computação em Nuvem, Inteligencia Artificial, IoT e assim vai...  </p>
    <p>Hello, I'm just a small developer, passionate about technology, I navigate deep waters of IT,
