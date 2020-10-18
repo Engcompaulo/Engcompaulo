@@ -12,7 +12,7 @@
    <p>Hello, I'm just a small developer, passionate about technology, I navigate deep waters of IT, like Cloud Computing, Artificial Intelligence, IoT and so on ...</p?
 </p>
 
-<div>
+<div class="colunas">
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Engcompaulo&count_private=true&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
