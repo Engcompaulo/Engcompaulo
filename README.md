@@ -7,7 +7,7 @@
 
 <div>
   <figure>
-  	<img  src="https://github.com/Engcompaulo/engcompaulo_imagens_pub/blob/master/DEVOPS.gif" width="500" height="300" alt="DevOps"/>
+  	<img  src="https://github.com/Engcompaulo/engcompaulo_imagens_pub/blob/master/DEVOPS.gif" width="250" height="150" alt="DevOps"/>
   	<figcaption>DevOps"</figcaption>
   </figure>
   ## Hello there! ✌🏻
