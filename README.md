@@ -29,6 +29,12 @@
 </div>
 
  ![Snake animation](https://github.com/Engcompaulo/Engcompaulo/blob/output/github-contribution-grid-snake.svg)
+ ## Certificações
+ <div>
+ <img align="center" alt="Engcompaulo-AWS Certified Cloud Practitioner" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"  width="100" height="100"/>
+ <img align="center" alt="Engcompaulo-AWS Certified Solutions Architect – Associate" src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"  width="100" height="100"/>
+  <img align="center" alt="Engcompaulo-GitLab Certified Git Associate" src="https://images.credly.com/size/340x340/images/6adcf7e5-c142-48d5-8033-9c7900de3f14/image.png"  width="100" height="100"/>
+ </div>
 
  ## Ferramentas e Tecnologias
   <div style="display: inline_block"><br>
