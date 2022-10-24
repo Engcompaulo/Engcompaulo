@@ -66,7 +66,6 @@
   </div>
   
   ## Conquistas e realizações
-  <div>
   [![@engcompaulo's Holopin board](https://holopin.me/engcompaulo)](https://holopin.io/@engcompaulo)
-  </div>
+    
 
