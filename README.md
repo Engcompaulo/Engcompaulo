@@ -16,14 +16,14 @@
 
 <br>
 <br>
+<img align="center" alt="Engcompaulo-Stackoverflow" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg" width="20" height="20"/>
 <a href="https://stackoverflow.com/users/10944644/engcompaulo">Meu perfil do Stackoverflow</a>
-<img href="https://stackoverflow.com/users/10944644/engcompaulo" align="center" alt="Engcompaulo-Stackoverflow" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg" width="20" height="20"/>
 <br>
 
 ## Estatísticas 
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="160em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Engcompaulo&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
+<img height="160em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Engcompaulo&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
