@@ -15,6 +15,7 @@
 </p>
 
 <br>
+<a href="https://stackoverflow.com/users/10944644/engcompaulo">Página do Stackoverflow</a>
 <br>
 
 ## Estatísticas 
