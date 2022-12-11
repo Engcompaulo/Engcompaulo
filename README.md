@@ -15,7 +15,9 @@
 </p>
 
 <br>
+<br>
 <a href="https://stackoverflow.com/users/10944644/engcompaulo">Meu perfil do Stackoverflow</a>
+<img href="https://stackoverflow.com/users/10944644/engcompaulo" align="center" alt="Engcompaulo-Stackoverflow" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg" width="20" height="20"/>
 <br>
 
 ## Estatísticas 
