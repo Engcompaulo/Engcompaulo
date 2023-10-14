@@ -18,6 +18,7 @@
 <br>
 <img align="center" alt="Engcompaulo-Stackoverflow" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg" width="20" height="20"/>
 <a href="https://stackoverflow.com/users/10944644/engcompaulo">Meu perfil do Stackoverflow</a>
+<a href="https://www.engcompaulo.com.br/">Meu site pessoal</a>
 <br>
 
 ## Estatísticas 
