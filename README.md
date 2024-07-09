@@ -8,7 +8,7 @@
    <img  src="https://github.com/Engcompaulo/engcompaulo_imagens_pub/blob/master/DEVOPS.gif" width="500" height="300" alt="DevOps" align="right">
    ## Hello there! ✌🏻 <br>
    <br>
-   <p>OSou um profissional DevOps com vasta experiência em automação de processos, integração contínua e gerenciamento de infraestrutura em nuvem. Especializo-me em otimizar o fluxo de trabalho de desenvolvimento, garantindo entregas rápidas e seguras.  </p>
+   <p>Sou um profissional DevOps com vasta experiência em automação de processos, integração contínua e gerenciamento de infraestrutura em nuvem. Especializo-me em otimizar o fluxo de trabalho de desenvolvimento, garantindo entregas rápidas e seguras.  </p>
    <br>
    <p>I am a DevOps professional with extensive experience in process automation, continuous integration, and cloud infrastructure management. I specialize in optimizing development workflows, ensuring fast and secure deliveries.</p?
 </p>
