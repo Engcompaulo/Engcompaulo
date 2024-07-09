@@ -8,9 +8,9 @@
    <img  src="https://github.com/Engcompaulo/engcompaulo_imagens_pub/blob/master/DEVOPS.gif" width="500" height="300" alt="DevOps" align="right">
    ## Hello there! ✌🏻 <br>
    <br>
-   <p>Olá, sou apenas um pequeno desenvolvedor, um apaixonado por tecnologia, navego em aguas profundas da TI, como Computação em Nuvem, Inteligencia Artificial, IoT e assim vai...  </p>
+   <p>OSou um profissional DevOps com vasta experiência em automação de processos, integração contínua e gerenciamento de infraestrutura em nuvem. Especializo-me em otimizar o fluxo de trabalho de desenvolvimento, garantindo entregas rápidas e seguras.  </p>
    <br>
-   <p>Hello, I'm just a small developer, passionate about technology, I navigate deep waters of IT, like Cloud Computing, Artificial Intelligence, IoT and so on ...</p?
+   <p>I am a DevOps professional with extensive experience in process automation, continuous integration, and cloud infrastructure management. I specialize in optimizing development workflows, ensuring fast and secure deliveries.</p?
 </p>
 
 <br>
