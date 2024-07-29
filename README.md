@@ -44,50 +44,51 @@
  ## Ferramentas e Tecnologias
  <!-- Liugar para pegar icones https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/-->
   <div style="display: inline_block"><br>
-    <img align="center" alt="Engcompaulo-Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-    <img align="center" alt="Engcompaulo-Shell" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/shell.png" width="40" height="40"/>
+    <img align="center" alt="Engcompaulo Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+    <img align="center" alt="Engcompaulo Shell" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/shell.png" width="40" height="40"/>
     <img align="center" alt="Engcompaulo-Cpp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-    <img align="center" alt="Engcompaulo-C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
-    <img align="center" alt="Engcompaulo-Py" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-    <img align="center" alt="Engcompaulo-Js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-    <img align="center" alt="Engcompaulo-Flask" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"/>
-    <img align="center" alt="Engcompaulo-Html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-    <img align="center" alt="Engcompaulo-Css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-    <img align="center" alt="Engcompaulo-Arduino" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40"/>
-    <img align="center" alt="Engcompaulo-Raspberry" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40"/>
-    <img align="center" alt="Engcompaulo-PIHole" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/pi-hole.png" width="40" height="40"/>
+    <img align="center" alt="Engcompaulo C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+    <img align="center" alt="Engcompaulo Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+    <img align="center" alt="Engcompaulo Js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+    <img align="center" alt="Engcompaulo Flask" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"/>
+    <img align="center" alt="Engcompaulo Html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+    <img align="center" alt="Engcompaulo Css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+    <img align="center" alt="Engcompaulo Arduino" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40"/>
+    <img align="center" alt="Engcompaulo Raspberry PI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40"/>
+    <img align="center" alt="Engcompaulo PIHole" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/pi-hole.png" width="40" height="40"/>
     <img align="center" alt="Engcompaulo-R" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40"/>
-    <img align="center" alt="Engcompaulo-Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
-    <img align="center" alt="Engcompaulo-Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-    <img align="center" alt="Engcompaulo-DockerCompose" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/docker-compose.png" width="40" height="40"/>
-    <img align="center" alt="Engcompaulo-Kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/>
-    <img align="center" alt="Engcompaulo-Grafana" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40" height="40"/>
-    <img align="center" alt="Engcompaulo-Prometheu" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/prometheus.png" width="40" height="40"/>
-    <img align="center" alt="Engcompaulo-Ansible" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40" height="40"/>
-    <img align="center" alt="Engcompaulo-Centos" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" width="40" height="40"/>
-    <img align="center" alt="Engcompaulo-Ubuntu" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/ubuntu.png" width="40" height="40"/>
-    <img align="center" alt="Engcompaulo-Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
-    <img align="center" alt="Engcompaulo-Gitlab" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-plain.svg" width="40" height="40"/>
-    <img align="center" alt="Engcompaulo-Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-    <img align="center" alt="Engcompaulo-Bitbucket" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width="40" height="40"/>
-    <img align="center" alt="Engcompaulo-Ubuntu" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" height="40"/>
-    <img align="center" alt="Engcompaulo-Nginx" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40"/>
-    <img align="center" alt="Engcompaulo-Apache" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" height="40"/>
-    <img align="center" alt="Engcompaulo-Aws" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/AWS_Simple_Icons_AWS_Cloud.svg" width="40" height="40"/>
-    <img align="center" alt="Engcompaulo-Jenkins" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/jenkins.png" width="40" height="40"/>
-    <img align="center" alt="Engcompaulo-PRTG" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/prtg.png" width="40" height="40"/>
-    <img align="center" alt="Engcompaulo-Zabbix" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/zabbix.png" width="40" height="40"/>
-    <img align="center" alt="Engcompaulo-Elasticsearch" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/elastic.png" width="40" height="40"/>
-    <img align="center" alt="Engcompaulo-Beats" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/elastic-beats.png" width="40" height="40"/>
-    <img align="center" alt="Engcompaulo-Kibana" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/elastic-kibana.png" width="40" height="40"/>
-    <img align="center" alt="Engcompaulo-Logstash" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/elastic-logstash.png" width="40" height="40"/>
-    <img align="center" alt="Engcompaulo-Jira" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/jira.png" width="40" height="40"/>
-    <img align="center" alt="Engcompaulo-Code" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/code.png" width="40" height="40"/>
-    <img align="center" alt="Engcompaulo-Vi" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/vi.png" width="40" height="40"/>
-    <img align="center" alt="Engcompaulo-RStudio" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/rstudio.png" width="40" height="40"/>
-    <img align="center" alt="Engcompaulo-Redis" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/redis.png" width="40" height="40"/>
-    <img align="center" alt="Engcompaulo-Rabbit" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/rabbitmq.png" width="40" height="40"/>
-    <img align="center" alt="Engcompaulo-MQTT" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/mqtt.png" width="40" height="40"/>     
+    <img align="center" alt="Engcompaulo Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
+    <img align="center" alt="Engcompaulo Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+    <img align="center" alt="Engcompaulo DockerCompose" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/docker-compose.png" width="40" height="40"/>
+    <img align="center" alt="Engcompaulo Kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/>
+    <img align="center" alt="Engcompaulo Grafana" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40" height="40"/>
+    <img align="center" alt="Engcompaulo Prometheu" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/prometheus.png" width="40" height="40"/>
+    <img align="center" alt="Engcompaulo Ansible" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40" height="40"/>
+    <img align="center" alt="Engcompaulo Centos" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" width="40" height="40"/>
+    <img align="center" alt="Engcompaulo Ubuntu" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/ubuntu.png" width="40" height="40"/>
+    <img align="center" alt="Engcompaulo Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
+    <img align="center" alt="Engcompaulo Gitlab" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-plain.svg" width="40" height="40"/>
+    <img align="center" alt="Engcompaulo Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+    <img align="center" alt="Engcompaulo Bitbucket" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width="40" height="40"/>
+    <img align="center" alt="Engcompaulo Ubuntu" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" height="40"/>
+    <img align="center" alt="Engcompaulo Nginx" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40"/>
+    <img align="center" alt="Engcompaulo Apache" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" height="40"/>
+    <img align="center" alt="Engcompaulo Aws" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/AWS_Simple_Icons_AWS_Cloud.svg" width="40" height="40"/>
+    <img align="center" alt="Engcompaulo Jenkins" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/jenkins.png" width="40" height="40"/>
+    <img align="center" alt="Engcompaulo PRTG" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/prtg.png" width="40" height="40"/>
+    <img align="center" alt="Engcompaulo Zabbix" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/zabbix.png" width="40" height="40"/>
+    <img align="center" alt="Engcompaulo Elasticsearch" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/elastic.png" width="40" height="40"/>
+    <img align="center" alt="Engcompaulo Beats" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/elastic-beats.png" width="40" height="40"/>
+    <img align="center" alt="Engcompaulo Kibana" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/elastic-kibana.png" width="40" height="40"/>
+    <img align="center" alt="Engcompaulo Logstash" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/elastic-logstash.png" width="40" height="40"/>
+    <img align="center" alt="Engcompaulo Jira" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/jira.png" width="40" height="40"/>
+    <img align="center" alt="Engcompaulo Code" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/code.png" width="40" height="40"/>
+    <img align="center" alt="Engcompaulo Vi" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/vi.png" width="40" height="40"/>
+    <img align="center" alt="Engcompaulo RStudio" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/rstudio.png" width="40" height="40"/>
+    <img align="center" alt="Engcompaulo Redis" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/redis.png" width="40" height="40"/>
+    <img align="center" alt="Engcompaulo Rabbit" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/rabbitmq.png" width="40" height="40"/>
+    <img align="center" alt="Engcompaulo MQTT" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/mqtt.png" width="40" height="40"/>    
+    <img align="center" alt="Engcompaulo Terraform" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons@master/png/terraform.png" width="40" height="40"/>   
   </div>
   
   ## Conquistas e realizações
