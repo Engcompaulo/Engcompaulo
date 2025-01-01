@@ -50,3 +50,5 @@
   
   ## Conquistas e realizações
   [![@engcompaulo's Holopin board](https://holopin.me/engcompaulo)](https://holopin.io/@engcompaulo)
+## Atualização
+#### Bio atualizada em: 01/01/2025
