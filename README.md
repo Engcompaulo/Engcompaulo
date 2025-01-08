@@ -33,7 +33,6 @@
 </div>
 
  <!--![Snake animation](https://github.com/Engcompaulo/Engcompaulo/blob/output/github-contribution-grid-snake.svg) Não funciona mais-->
- ![Snake animation](https://github.com/Engcompaulo/Engcompaulo/blob/output/github-contribution-grid-snake.svg)
  ## Certificações
  <div>
  <img align="center" alt="Engcompaulo-AWS Certified Cloud Practitioner" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"  width="100" height="100" href="https://www.credly.com/badges/0af3dd65-9cb8-41b0-bd96-0f9223dd80fd"/>
