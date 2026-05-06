@@ -69,7 +69,9 @@
  <img align="center" alt="Engcompaulo-AWS Certified Solutions Architect – Associate" src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"  width="100" height="100" href="https://www.credly.com/badges/9d48c2a3-376e-44db-a74c-c44d26cbe751"/>
   <img align="center" alt="Engcompaulo-GitLab Certified Git Associate" src="https://images.credly.com/size/340x340/images/9bc216e6-406e-491f-903f-2f7ca60facc6/image.png"  width="100" height="100" href="https://www.credly.com/badges/33a64b0c-f832-454f-b16d-37bf63e631b0"/>
   <img align="center" alt="Paessler Certified Monitoring Expert 2024" src="./img/badge_certified-monitoring-expert-2024.svg"  width="140" height="100"/>
+  <img align="center" alt="Engcompaulo-AWS AWS Certified AI Practitioner" src="https://images.credly.com/size/340x340/images/0e717fa5-93a1-4203-964c-051b4734b7eb/blob"  width="130" height="130" href="https://www.credly.com/badges/edf31400-daf8-4352-8841-3835eb1015a0/public_url"/>
  </div>
+ 
 
  ## Ferramentas e Tecnologias
  <!-- Liugar para pegar icones https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/-->
