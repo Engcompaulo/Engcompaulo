@@ -63,14 +63,33 @@
 
  <!--![Snake animation](https://github.com/Engcompaulo/Engcompaulo/blob/output/github-contribution-grid-snake.svg) Não funciona mais-->
  ## Certificações
- <div>
-  <img align="center" alt="Engcompaulo-AWS AWS Certified AI Practitioner" src="https://images.credly.com/size/340x340/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png"  width="100" height="100" href="https://www.credly.com/badges/0af3dd65-9cb8-41b0-bd96-0f9223dd80fd"/>
- <img align="center" alt="Engcompaulo-AWS AWS Certified AI Practitioner" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"  width="100" height="100" href="https://www.credly.com/badges/0af3dd65-9cb8-41b0-bd96-0f9223dd80fd"/>
- <img align="center" alt="Engcompaulo-AWS Certified Solutions Architect – Associate" src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"  width="100" height="100" href="https://www.credly.com/badges/9d48c2a3-376e-44db-a74c-c44d26cbe751"/>
-  <img align="center" alt="Engcompaulo-GitLab Certified Git Associate" src="https://images.credly.com/size/340x340/images/9bc216e6-406e-491f-903f-2f7ca60facc6/image.png"  width="100" height="100" href="https://www.credly.com/badges/33a64b0c-f832-454f-b16d-37bf63e631b0"/>
-  <img align="center" alt="Paessler Certified Monitoring Expert 2024" src="./img/badge_certified-monitoring-expert-2024.svg"  width="140" height="100"/>
-  <img align="center" alt="Engcompaulo-AWS AWS Certified AI Practitioner" src="https://images.credly.com/size/340x340/images/0e717fa5-93a1-4203-964c-051b4734b7eb/blob"  width="130" height="130" href="https://www.credly.com/badges/edf31400-daf8-4352-8841-3835eb1015a0/public_url"/>
- </div>
+## Certificações
+
+<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
+
+  <a href="https://www.credly.com/badges/0af3dd65-9cb8-41b0-bd96-0f9223dd80fd">
+    <img src="https://images.credly.com/size/340x340/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="100" height="100"/>
+  </a>
+
+  <a href="https://www.credly.com/badges/0af3dd65-9cb8-41b0-bd96-0f9223dd80fd">
+    <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100" height="100"/>
+  </a>
+
+  <a href="https://www.credly.com/badges/9d48c2a3-376e-44db-a74c-c44d26cbe751">
+    <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100" height="100"/>
+  </a>
+
+  <a href="https://www.credly.com/badges/33a64b0c-f832-454f-b16d-37bf63e631b0">
+    <img src="https://images.credly.com/size/340x340/images/9bc216e6-406e-491f-903f-2f7ca60facc6/image.png" width="100" height="100"/>
+  </a>
+
+  <img src="./img/badge_certified-monitoring-expert-2024.svg" width="140" height="100"/>
+
+  <a href="https://www.credly.com/badges/edf31400-daf8-4352-8841-3835eb1015a0/public_url">
+    <img src="https://images.credly.com/size/340x340/images/0e717fa5-93a1-4203-964c-051b4734b7eb/blob" width="130" height="130"/>
+  </a>
+
+</div>
  
 
  ## Ferramentas e Tecnologias
