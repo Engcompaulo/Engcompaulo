@@ -91,15 +91,17 @@
 </div> -->
 
 <p align="center">
-  <a href="https://www.credly.com/badges/fd72047a-9377-4f15-b0e5-ff44f31b5726/public_url"><img src="https://images.credly.com/size/340x340/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="100"/></a>
-  <a href="https://www.credly.com/badges/0af3dd65-9cb8-41b0-bd96-0f9223dd80fd"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100"/></a>
-  <a href="https://www.credly.com/badges/9d48c2a3-376e-44db-a74c-c44d26cbe751"><img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100"/></a>
+  <a href="https://www.credly.com/badges/fd72047a-9377-4f15-b0e5-ff44f31b5726/public_url" title="AWS Certified AI Practitioner"><img src="https://images.credly.com/size/340x340/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="100"/></a>
+  <a href="https://www.credly.com/badges/0af3dd65-9cb8-41b0-bd96-0f9223dd80fd" title="AWS Certified Cloud Practitioner"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100"/></a>
+  <a href="https://www.credly.com/badges/c8f62e5c-1afc-4fc3-b7dc-24521b8663f0" title="AWS Certified Solutions Architect – Associate"><img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100"/></a>
   <a href="https://www.credly.com/badges/33a64b0c-f832-454f-b16d-37bf63e631b0"><img src="https://images.credly.com/size/340x340/images/9bc216e6-406e-491f-903f-2f7ca60facc6/image.png" width="100"/></a>
   <a href="LINK"><img src="./img/badge_certified-monitoring-expert-2024.svg" width="100"/></a>
-  <a href="https://www.credly.com/badges/edf31400-daf8-4352-8841-3835eb1015a0/public_url"><img src="https://images.credly.com/size/340x340/images/0e717fa5-93a1-4203-964c-051b4734b7eb/blob" width="100"/></a>
+  <a href="https://www.credly.com/badges/edf31400-daf8-4352-8841-3835eb1015a0/public_url" title="HashiCorp Certified: Terraform Associate (004)"><img src="https://images.credly.com/size/340x340/images/0e717fa5-93a1-4203-964c-051b4734b7eb/blob" width="100"/></a>
   <a href="https://www.credly.com/badges/a6da1e20-3470-467a-a4c1-811b1380bb61/public_url"><img src="https://images.credly.com/size/340x340/images/ed8cf03b-6269-4265-a65b-68e67e49ce6b/blob" width="100"/></a>
   <a href="https://www.credly.com/badges/e07ba024-22c3-4661-b6d9-571bfeed78bd/public_url"><img src="https://images.credly.com/size/340x340/images/8dd6f516-0dd3-4b5e-aacf-8e86e737a95d/blob" width="100"/></a>
   <a href="https://www.credly.com/badges/874b6acc-868e-4762-8529-cf93f717bac5/public_url"><img src="https://images.credly.com/size/340x340/images/b3885091-25bc-42d0-8989-34cca82f3056/blob" width="100"/></a>
+  <a href="https://www.credly.com/badges/daf053a4-95b1-4467-aa8a-654858cfc603/public_url" title="AWS Agentic AI Demonstrated
+"><img src="https://images.credly.com/size/340x340/images/6f40bf38-1725-40d8-99a2-f6bb1bafec0e/blob" width="100"/></a>
   <a href="https://www.credly.com/badges/8c5f9364-cc7a-47b0-8522-780beadca96b/public_url"><img src="https://images.credly.com/size/340x340/images/c35303ff-2b71-4f77-8fb2-c985c39dbf7f/blob" width="100"/></a>
   <a href="https://www.credly.com/badges/688d0c0b-0423-4e55-951d-e62ec3997626/public_url"><img src="https://images.credly.com/size/340x340/images/d7560bed-21fd-475d-99bb-010fa2ca66e6/blob" width="100"/></a>
   <a href="https://www.credly.com/badges/dc6a2697-016a-4350-8ce5-6320ab3098c8/public_url"><img src="https://images.credly.com/size/340x340/images/0f5127c3-639b-47f2-abca-01107591c639/blob" width="100"/></a>
