@@ -111,6 +111,10 @@
 </p>
 
 <a style="text-decoration: underline; font-size: 22px;" href="https://www.credly.com/users/paulo-ricardo-siqueira-da-silva-de-sousa/badges#credly">Credly Dashboard</a>
+
+<p align="center">
+  <img src="./certificados/hacktoberfest-2026-fest-winner-certificate-2026-01a04aa9-7601-c629-0220-041c12fa2bfa-01a03b87-be56-74d9-e204-ae3f82503830.png" width="400" alt="Hacktoberfest 2026 Winner Certificate"/>
+</p>
  
 
  ## Ferramentas e Tecnologias
@@ -202,10 +206,13 @@
 [![RaspberryPi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)]()
 
 </div>
+
+
+
 <!-- fonte dos incones https://github.com/inttter/md-badges -->
 
   
   ## Conquistas e realizações
   [![@engcompaulo's Holopin board](https://holopin.me/engcompaulo)](https://holopin.io/@engcompaulo)
 ## Atualização
-#### Bio atualizada em: 21/10/2025
+#### Bio atualizada em: 02/11/2026
